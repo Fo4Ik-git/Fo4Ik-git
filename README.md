@@ -34,6 +34,6 @@
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fo4Ik-git&layout=compact)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fo4Ik-git)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fo4Ik-git&layout=compact)   
 
 ![ALT](github-user-contribution.svg)
