@@ -38,9 +38,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fo4Ik-git&layout=compact)   
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/937a94a42ea275fb6535406005fd489993d9773d/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/937a94a42ea275fb6535406005fd489993d9773d/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/937a94a42ea275fb6535406005fd489993d9773d/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/52ff411de7d150e9b3e8f661c6f384207a17ab1a/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/52ff411de7d150e9b3e8f661c6f384207a17ab1a/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/52ff411de7d150e9b3e8f661c6f384207a17ab1a/github-contribution-grid-snake.svg" />
 </picture>
 
 
