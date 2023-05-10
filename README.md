@@ -15,7 +15,7 @@
 ## 📚 I’m currently learning ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) and other
 </br>
 
-## 🎓 📝 Link to my resume [here](https://www.canva.com/design/DAFa3Mxt-K4/uNGxPcOF0QHG72Fbu2p3UQ/view?utm_content=DAFa3Mxt-K4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+## 🎓 📝 Link to my resume [here](https://www.canva.com/design/DAFbm6Hjw38/URGHXczF1CJgogVvyOeQ2Q/edit?utm_content=DAFbm6Hjw38&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 </br>
 
 ## My email **zinkovskyi.vladyslav@gmail.com**
