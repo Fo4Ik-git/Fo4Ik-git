@@ -7,7 +7,7 @@
 
 ## I’m currently working on [KinAcademy](https://github.com/Fo4Ik-git/KinAcademy)
 
-## 👨‍💻 All of my projects are available at [My website](http://site.fo4ik.tk:9000/)
+## 👨‍💻 Visit [My website](http://zinkovskyi.me/WebPortfolio/)
 
 ## 📫 How to reach me **zinkovskyi.vladyslav@gmail.com**
 
