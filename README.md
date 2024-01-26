@@ -11,7 +11,6 @@
 
 ## 📫 How to reach me **zinkovskyi.vladyslav@gmail.com**
 
-## 📄 Know about my experiences [My CV](http://site.fo4ik.tk:9000/files/users/1/pdf/cv.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fo4Ik-git&color=brightgreen)
 
