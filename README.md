@@ -7,8 +7,6 @@
 
 ## I’m currently working on [KinAcademy](https://github.com/Fo4Ik-git/KinAcademy)
 
-## 👨‍💻 Visit [My website](https://zinkovskyi.online/)
-
 ## 📫 How to reach me **zinkovskyi.vladyslav@gmail.com**
 
 
