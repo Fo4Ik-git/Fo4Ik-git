@@ -5,7 +5,6 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Fo4Ik-git) -->
 
-## I’m currently working on [KinAcademy](https://github.com/Fo4Ik-git/KinAcademy)
 
 ## 📫 How to reach me **zinkovskyi.vladyslav@gmail.com**
 
